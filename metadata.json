@@ -1,0 +1,6 @@
+{
+  "name": "Boxing Timer",
+  "description": "A high-intensity, customizable boxing interval timer with dynamic visual feedback, sound alerts, saved custom workouts, and local history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
